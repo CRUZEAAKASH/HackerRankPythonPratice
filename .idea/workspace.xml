@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="343fcf5d-4b47-46fa-873e-761907d3e803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicDataTypes/WhatsYourName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +67,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BasicDataTypes/WhatsYourName.py">
+        <entry file="file://$PROJECT_DIR$/Strings/WhatsYourName.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -140,6 +140,11 @@
               <item name="HackerRankPythonPratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRankPythonPratice" type="462c0819:PsiDirectoryNode" />
               <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankPythonPratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankPythonPratice" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicDataTypes/WhatsYourName.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\aakasshi\Learning\Python\HackerRankPythonPratice\Strings\WhatsYourName.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,6 +300,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -365,10 +371,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicDataTypes/WhatsYourName.py">
+    <entry file="file://$PROJECT_DIR$/Strings/WhatsYourName.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="71" />
         </state>
       </provider>
     </entry>
