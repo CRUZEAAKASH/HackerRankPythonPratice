@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="343fcf5d-4b47-46fa-873e-761907d3e803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Strings/StringsplitAndJoin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/SwaptheCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/SwaptheCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/StringMutability.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/StringsplitAndJoin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/StringMutability.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -122,6 +129,7 @@
         <option value="$PROJECT_DIR$/Strings/SwaptheCase.py" />
         <option value="$PROJECT_DIR$/Strings/StringSplitAndJoin.html" />
         <option value="$PROJECT_DIR$/Strings/StringsplitAndJoin.py" />
+        <option value="$PROJECT_DIR$/Strings/StringMutability.py" />
       </list>
     </option>
   </component>
@@ -190,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StringsplitAndJoin">
+  <component name="RunManager" selected="Python.StringMutability">
     <configuration name="ListComprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrintFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringMutability" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HackerRankPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction/PrintFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/StringMutability.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StringMutability" />
         <item itemvalue="Python.StringsplitAndJoin" />
         <item itemvalue="Python.SwaptheCase" />
         <item itemvalue="Python.WhatsYourName" />
         <item itemvalue="Python.ListComprehensions" />
-        <item itemvalue="Python.PrintFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +329,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -417,6 +424,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/StringMutability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
