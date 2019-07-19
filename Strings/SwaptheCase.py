@@ -1,5 +1,3 @@
-# Need to work on thiss
-
 
 string = input()
 print(len(string))
